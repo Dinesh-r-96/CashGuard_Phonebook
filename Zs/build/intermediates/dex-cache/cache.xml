@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\ADMIN\.gradle\caches\modules-2\files-2.1\com.google.zxing\core\3.2.1\2287494d4f5f9f3a9a2bb6980e3f32053721b315\core-3.2.1.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="2287494d4f5f9f3a9a2bb6980e3f32053721b315">
+        <dex dex="C:\Users\ADMIN\AndroidStudioProjects\Zs\app\build\intermediates\pre-dexed\release\core-3.2.1-cc68f1b5accf2497a29d8a5e88a317de161e78ff.jar" />
+    </item>
+
+</items>

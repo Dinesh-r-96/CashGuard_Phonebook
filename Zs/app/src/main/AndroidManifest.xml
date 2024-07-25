@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.admin.zs" >
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.CALL_PHONE" />
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name=".login"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".contact"
+            android:label="@string/title_activity_contact" >
+        </activity>
+        <activity
+            android:name=".displaydetails"
+            android:label="@string/title_activity_displaydetails" >
+        </activity>
+        <activity
+            android:name=".sendmoney"
+            android:label="@string/title_activity_sendmoney" >
+        </activity>
+        <activity
+            android:name=".register"
+            android:label="@string/title_activity_register" >
+        </activity>
+        <activity
+            android:name=".sendmoney2"
+            android:label="@string/title_activity_sendmoney2" >
+        </activity>
+        <activity
+            android:name=".next1"
+            android:label="@string/title_activity_next1" >
+        </activity>
+        <activity
+            android:name=".next2"
+            android:label="@string/title_activity_next2" >
+        </activity>
+        <activity
+            android:name=".mydetails"
+            android:label="@string/title_activity_mydetails" >
+        </activity>
+        <activity
+            android:name=".qrcodegenerator"
+            android:label="@string/title_activity_qrcodegenerator" >
+        </activity>
+    </application>
+
+</manifest>

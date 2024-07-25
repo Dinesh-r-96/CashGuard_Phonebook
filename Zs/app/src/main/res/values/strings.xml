@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Zs</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_contact">contact</string>
+    <string name="title_activity_displaydetails">displaydetails</string>
+    <string name="title_activity_sendmoney">sendmoney</string>
+    <string name="title_activity_register">register</string>
+    <string name="title_activity_sendmoney2">sendmoney2</string>
+    <string name="title_activity_next1">next1</string>
+    <string name="title_activity_next2">next2</string>
+    <string name="title_activity_mydetails">mydetails</string>
+    <string name="title_activity_qrcodegenerator">qrcodegenerator</string>
+</resources>
