@@ -1,37 +1,44 @@
-# CashGuard Phonebook 
-**Smart Phonebook - Academics Project - 2018/19**
+# CashGuard Phonebook
 
-The **CashGuard Phonebook** application is designed to streamline contact management, especially when dealing with individuals who share the same name but have different contact details. By enhancing traditional phonebooks with additional fields and categorization, this application helps users maintain an organized and efficient contact list.
+**Smart Phonebook - Academics - 2018/19**
 
 ## Project Overview
 
-**CashGuard Phonebook** improves upon conventional phonebooks by adding:
+**CashGuard Phonebook** is a sophisticated application designed to enhance contact management and offer additional functionalities, such as offline cash/money transfer via QR code encoding. The application improves upon traditional phonebooks by incorporating additional fields and features to ensure efficient and organized contact management.
 
-- **Name**
-- **Nickname**
-- **Number1**
-- **Number2**
-- **Email ID**
-- **Address**
-- **Categories**: Friend, Family, Work, Relative
+## Features
 
-This smart phonebook is especially useful for managing extensive contact lists, making it easier to find and organize contacts without confusion.
+- **Contact Management**: 
+  - **Fields**: Name, Nickname, Number1, Number2, Email ID, Address.
+  - **Categories**: Friend, Family, Work, Relative.
+
+- **Offline Cash/Money Transfer**: 
+  - Transfer cash or money offline using QR code encoding.
+  - Generate and scan QR codes to facilitate secure transactions.
+
+- **Intelligent Filtering**:
+  - Import contacts from social networking sites.
+  - Auto-populate contact fields.
 
 ## Scope
 
 The application:
 
-- Manages personal contact information, including phone numbers, addresses, and email IDs.
+- Manages personal contact information including phone numbers, addresses, and email IDs.
 - Restricts access to the phone user.
 - Allows users to organize contacts into groups.
-- Features an intelligent filtering system for importing contacts from social networking sites and auto-populating fields.
+- Facilitates offline cash/money transfers through QR code encoding.
 
 ## Project Description
 
-**CashGuard Phonebook** focuses on storing and managing personal information, primarily names and phone numbers, with support for additional details. It facilitates:
+**CashGuard Phonebook** focuses on storing and managing personal information efficiently. Key aspects include:
 
-- Efficient retrieval, updates, and deletion of contact information.
-- Dynamic database creation during runtime (no separate database installation required).
+- **Data Storage**: 
+  - Stores and organizes names, phone numbers, and additional details.
+  - Utilizes a dynamic database created during runtime (no separate installation required).
+
+- **QR Code Transfer**: 
+  - Provides functionality for transferring cash or money offline by encoding transaction details into QR codes.
 
 ## Requirements
 
@@ -53,11 +60,11 @@ The application:
 
 - Compatible with all Android models and platforms.
 - Lacks advanced authorization techniques.
-- Does not operate in online mode.
+- Operates offline only, with no online mode available.
 
 ## Conclusion
 
-The **CashGuard Phonebook** application is essential for users with large contact lists. It categorizes contacts effectively, reducing confusion caused by similar names and ensuring efficient management of personal information.
+The **CashGuard Phonebook** application is an invaluable tool for users managing extensive contact lists and requiring offline financial transactions. It effectively categorizes and organizes contacts, and provides a secure method for offline money transfers via QR code encoding.
 
 ## References
 
