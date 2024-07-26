@@ -1,5 +1,5 @@
 # CashGuard Phonebook 
-Smart Phonebook - Academics Project - 2018/19
+**Smart Phonebook - Academics Project - 2018/19**
 
 The **CashGuard Phonebook** application is designed to streamline contact management, especially when dealing with individuals who share the same name but have different contact details. By enhancing traditional phonebooks with additional fields and categorization, this application helps users maintain an organized and efficient contact list.
 
